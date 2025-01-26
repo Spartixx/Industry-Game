@@ -11,6 +11,7 @@ Si vous souhaitée redémarrer une partie depuis le début, lancez le fichier : 
 <h2>Vous êtes désormais prêt à jouer !</h2>
 
 -Lancer le fichier ***"start"*** pour commencer une partie.
+
 -Cliquez sur la croix blanche sur fond rouge pour quitter le jeu en sauvegardant la partie. Sinon la partie ne sera pas sauvegardée.
 
 -Lisez le Wiki au besoins.

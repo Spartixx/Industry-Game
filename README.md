@@ -7,6 +7,6 @@ Lancez une première et unique fois le fichier : "launchOnce"
 
 Vous êtes désormais prêt à jouer !
 
--Lancer le fichier "start"
+-Lancer le ***fichier "start"***
 
-#Wiki :
+###Wiki :

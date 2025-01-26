@@ -26,6 +26,8 @@ Le jeu dispose d'une barre de menu au dessus de l'écran. Elle se compose de dif
 <h5>La fonderie :</h5> Récupère un minerai depuis un tapis roulant, le fond, et le dépose sur un convoyeur à proximité.
 <h5>Les convoyeurs :</h5> Permet de relier différentes machines entre elles, en leur transférant les ressources. Choisissez son sens depuis le sous menu.
 
+
+
 <h3>Les améliorations :</h3>
 Cliquez sur une machine (tapis roulants non compris) pour ouvrir le menu d'amélioration de la machine. Vous pouvez améliorer sa rapidité, son stockage maximum ainsi que le minerais produit (prix de vente augmenté). Le coût d'amélioration est augmenté à chaque amélioration et, est limité à 5. Les améliorations peuvent être perçues comme des tiers. Notez qu'une machine de tier 1, pour exemple, n'acceptera pas une ressource produite par une machine de tier 2. 
 

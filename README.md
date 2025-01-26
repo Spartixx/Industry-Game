@@ -3,13 +3,15 @@ Un jeu de gestion industrielle sur carte 2D. Des machines de productions, des ta
 
 <h2>Prérequis :</h2>
 
-Lancez une première et unique fois le fichier : "launchOnce"
+Lancez une première et unique fois le fichier : **"launchOnce"**
+Si vous souhaitée redémarrer une partie depuis le début, lancez le fichier : **"resetDatas"**
 
 -Les librairies nécessaires au bon finctionnement du jeu sont à présent installées.
 
 <h2>Vous êtes désormais prêt à jouer !</h2>
 
 -Lancer le fichier ***"start"*** pour commencer une partie.
+-Cliquez sur la croix blanche sur fond rouge pour quitter le jeu en sauvegardant la partie. Sinon la partie ne sera pas sauvegardée.
 
 -Lisez le Wiki au besoins.
 

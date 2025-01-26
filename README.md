@@ -5,7 +5,7 @@ Lancez une première et unique fois le fichier : "launchOnce"
 
 -Les librairies nécessaires au bon finctionnement du jeu sont à présent installées.
 
-<h2>Vous êtes désormais prêt à jouer !<h2\>
+<h2>Vous êtes désormais prêt à jouer !</h2>
 
 -Lancer le ***fichier "start"*
 

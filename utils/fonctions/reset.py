@@ -1,21 +1,5 @@
 import json
 
-def loadConfig(file:str) -> dict:
-
-    """
-    Renvoie le dictionaire du fichier de configuration prit en paramètre.
-
-    Args:
-        file (str): Le chemin vers le fichier de configuration.
-
-    Returns:
-        dict: Le dictionaire correspondant.
-    """
-
-    with open(file, "r") as f:
-        return json.load(f)
-    
-
 def writeData(file:str, data:dict):
 
     """
@@ -28,3 +12,14 @@ def writeData(file:str, data:dict):
 
     with open(file, "w") as f:
         json.dump(data, f)
+
+def resetDatas():
+    """
+    Rénitialise les données de la map.
+    """
+    writeData("configs/map.json", {})
+    writeData("configs/player.json", {"name": "username", "solde": 340, "field": 100})
+
+if __name__ == "__main__":
+    print("Rénitialisation des données effectuées avec succès !")
+    resetDatas()

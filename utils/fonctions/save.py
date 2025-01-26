@@ -21,3 +21,4 @@ def savePlayer(playerStats: dict) -> None:
     """
     with open('configs/player.json', "w") as f:
         json.dump(playerStats, f)
+

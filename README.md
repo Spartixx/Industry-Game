@@ -31,7 +31,8 @@ Le jeu dispose d'une barre de menu au dessus de l'écran. Elle se compose de dif
 <h3>Les améliorations :</h3>
 Cliquez sur une machine (tapis roulants non compris) pour ouvrir le menu d'amélioration de la machine. Vous pouvez améliorer sa rapidité, son stockage maximum ainsi que le minerais produit (prix de vente augmenté). Le coût d'amélioration est augmenté à chaque amélioration et, est limité à 5. Les améliorations peuvent être perçues comme des tiers. Notez qu'une machine de tier 1, pour exemple, n'acceptera pas une ressource produite par une machine de tier 2. 
 
-__Cas concret :__
+
+___Cas concret :___
 
 Une fonderie de tier 1, ne peut fondre que le fer. Alors cette fonderie de tier 1 n'acceptera pas du cuivre (ressource de tier 2) produit par une foreuse de tier 2.
 

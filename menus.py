@@ -3,9 +3,6 @@ import pygame
 from utils.fonctions.files import loadConfig
 from utils.fonctions.solde import strSolde
 
-# Je ferais un fichier de configuration pour obtenir les textures avec des constantes plus tard, j'ai pas eus le courage
-# J'optimiserais la création de menu plus tard, tKinter n'est pas un domaine où je suis très bon
-    
 priceConfig = loadConfig("configs/price.json")
 config = loadConfig("configs/config.json")
 blocConfig = loadConfig("configs/blocs.json")
@@ -16,7 +13,7 @@ finalSelection = []
 
 # Exécuter le menu en paramètres
 def execMenu(menu, level = None, playerConfig = None):
-    # Il n'y a que le menu des convoyeurs pour le moment, celui pour l'achat de terrain est le prochain
+
     if menu == "convoyeur":
         return convoyeurMenu()
     elif menu == "buyField":
